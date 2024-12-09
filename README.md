@@ -28,8 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
