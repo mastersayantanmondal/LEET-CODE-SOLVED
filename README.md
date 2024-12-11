@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0605-can-place-flowers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
 |  |
