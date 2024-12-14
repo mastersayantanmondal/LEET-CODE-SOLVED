@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2868-continuous-subarrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Stack
