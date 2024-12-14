@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2868-continuous-subarrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Stack
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2868-continuous-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -103,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0392-is-subsequence) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
