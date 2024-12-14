@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1777-determine-if-two-strings-are-close](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Linked List
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1777-determine-if-two-strings-are-close](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2868-continuous-subarrays) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
