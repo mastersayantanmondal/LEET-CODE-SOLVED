@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1833-find-the-highest-altitude) |
+| [1917-maximum-average-pass-ratio](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1917-maximum-average-pass-ratio) |
 | [2428-equal-row-and-column-pairs](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2428-equal-row-and-column-pairs) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0649-dota2-senate) |
+| [1917-maximum-average-pass-ratio](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1917-maximum-average-pass-ratio) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1917-maximum-average-pass-ratio) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2868-continuous-subarrays) |
