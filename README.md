@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0283-move-zeroes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0004-median-of-two-sorted-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0969-number-of-recent-calls) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
