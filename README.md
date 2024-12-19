@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0780-max-chunks-to-make-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0780-max-chunks-to-make-sorted) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2470-removing-stars-from-a-string) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0649-dota2-senate) |
+| [0780-max-chunks-to-make-sorted](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2300-construct-string-with-repeat-limit) |
 ## Prefix Sum
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -199,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
