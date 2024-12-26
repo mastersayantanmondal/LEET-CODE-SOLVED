@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0334-increasing-triplet-subsequence) |
+| [0494-target-sum](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0724-find-pivot-index) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0494-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
@@ -250,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
