@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0780-max-chunks-to-make-sorted) |
 | [1046-max-consecutive-ones-iii](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1046-max-consecutive-ones-iii) |
+| [1063-best-sightseeing-pair](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1063-best-sightseeing-pair) |
 | [1319-unique-number-of-occurrences](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1063-best-sightseeing-pair) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
