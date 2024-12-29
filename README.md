@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1833-find-the-highest-altitude) |
 | [1917-maximum-average-pass-ratio](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1917-maximum-average-pass-ratio) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1894-merge-strings-alternately) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2300-construct-string-with-repeat-limit) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0494-target-sum) |
 | [1063-best-sightseeing-pair](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1063-best-sightseeing-pair) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Queue
 |  |
 | ------- |
