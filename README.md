@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1777-determine-if-two-strings-are-close) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1833-find-the-highest-altitude) |
 ## Binary Search
 |  |
