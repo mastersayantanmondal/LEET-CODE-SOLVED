@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1833-find-the-highest-altitude) |
 | [1917-maximum-average-pass-ratio](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1917-maximum-average-pass-ratio) |
 | [2428-equal-row-and-column-pairs](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2428-equal-row-and-column-pairs) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2868-continuous-subarrays) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1894-merge-strings-alternately) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2300-construct-string-with-repeat-limit) |
 | [2470-removing-stars-from-a-string](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2470-removing-stars-from-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1833-find-the-highest-altitude) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search
 |  |
 | ------- |
