@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1917-maximum-average-pass-ratio) |
 | [2358-number-of-ways-to-split-array](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2428-equal-row-and-column-pairs) |
+| [2465-shifting-letters-ii](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2300-construct-string-with-repeat-limit) |
+| [2465-shifting-letters-ii](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1833-find-the-highest-altitude) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search
 |  |
