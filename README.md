@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
