@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0780-max-chunks-to-make-sorted) |
+| [0952-word-subsets](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0952-word-subsets) |
 | [1046-max-consecutive-ones-iii](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1063-best-sightseeing-pair) |
 | [1319-unique-number-of-occurrences](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1319-unique-number-of-occurrences) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0952-word-subsets](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0649-dota2-senate) |
+| [0952-word-subsets](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/mastersayantanmondal/LEET-CODE-SOLVED/tree/master/1524-string-matching-in-an-array) |
